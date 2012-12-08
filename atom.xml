@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[SZruby.org - Shenzhen Ruby Group | 深圳 Ruby]]></title>
   <link href="http://szruby.org/atom.xml" rel="self"/>
   <link href="http://szruby.org/"/>
-  <updated>2012-12-08T23:57:39+08:00</updated>
+  <updated>2012-12-09T00:08:06+08:00</updated>
   <id>http://szruby.org/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[SZRuby]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
