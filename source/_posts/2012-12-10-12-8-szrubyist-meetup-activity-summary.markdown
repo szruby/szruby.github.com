@@ -15,11 +15,15 @@ categories:
 按例行，我们要做一个总结，为了让下次更加有趣，有意义一些。先上图：
 
 ![活动图一](http://l.ruby-china.org/photo/b3132a54fc89159dc4f43ad1300bd39a.jpg)
+
 摄影师：Weijun Yin
 
 ![活动图二](http://l.ruby-china.org/photo/f8effda4966fc72d3c5a627769d0877c.jpg)
+
 摄影师：Jesse Cai (蔡望勤)
 （不用说，摄影师是指在图中缺少的一位人物：））
+
+更多图集，请到这里看（感谢摄影师 [蔡望勤](http://blog.caiwangqing.com) 提供）： <http://weibo.com/1465784794/z94pX3A5h>
 
 ## 场地
 
@@ -30,7 +34,7 @@ categories:
 
 一点点我感觉到的小问题： 大部分人是南山这里的，有点稍远。 地点稍稍紧。 也有文思的朋友说可以帮我试试能找到南山的地儿，我的想法是尊重大多数人的看法，我接下来收集些意见，看看在龙岗的朋友们会有什么看法。
 
-最后，再次感谢 @sanibyfish 帮助和 harry（本次有事，未在场）的场地支持。相信 harry 在场的话会被大家的热情感染到：）我们共同希望 szRubyist 能够更好的发展。 好，把篇幅留给重要的部分。
+最后，再次感谢 [@sanibyfish](http://ruby-china.org/sanivbyfish) 帮助和 harry（本次有事，未在场）的场地支持。相信 harry 在场的话会被大家的热情感染到：）我们共同希望 szRubyist 能够更好的发展。 好，把篇幅留给重要的部分。
 
 ## 过程
 
@@ -90,5 +94,10 @@ categories:
 
 1. 请反馈你的建议。只有不断的改进才能让我们的活动办的更好，让大家更自由和舒服。
 2. 关于活动地点，也希望你反馈下看法： 是否满意我们现在的地点。 如果在南山你是否更乐意。
+
+反馈方式：
+
+1. 邮件， 请发送到 <lyfi2003@gmail.com>。
+2. 在 RubyChina 上联系我， [@lyfi2003](http://ruby-china.org/lyfi2003)
 
 最后，我们 szRubyist 的官方主站： <http://szruby.org> 请订阅起来，所有的活动内容会首先放在这里。另外，[RubyChina](http://ruby-china.org) 是我们的老巢，用起来。
